@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Prison.data.unityweb",
+"asmCodeUrl": "Prison.asm.code.unityweb",
+"asmMemoryUrl": "Prison.asm.memory.unityweb",
+"asmFrameworkUrl": "Prison.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
