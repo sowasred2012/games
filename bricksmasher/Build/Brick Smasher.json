@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Brick Smasher.data.unityweb",
+"asmCodeUrl": "Brick Smasher.asm.code.unityweb",
+"asmMemoryUrl": "Brick Smasher.asm.memory.unityweb",
+"asmFrameworkUrl": "Brick Smasher.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
